@@ -21,7 +21,7 @@ const Home = () => {
           name='description'
           content='Hi, I am Jimmy Mendy a Front End Developer proficient in HTML, CSS, JavaScript, React. This is my portfolio'
         />
-        <meta name='og:title' content='Jimmy Mendy | Frond End Developer' />
+        <meta name='og:title' content='Jimmy Mendy | Front End Developer' />
         <meta
           name='og:description'
           content='Hi, I am Jimmy Mendy a Front End Developer proficient in HTML, CSS, JavaScript, React. This is my portfolio'
