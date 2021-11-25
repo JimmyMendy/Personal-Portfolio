@@ -12,7 +12,7 @@ const Hero = (props) => (
          a Front End Developer
       </SectionTitle>
       <SectionText>
-        I'm a javaScript affionado proficent in front-end languages and libraries like HTML, JavaScript, CSS, React and Next.js.
+        I'm a javaScript affionado proficient in front-end languages and libraries like HTML, JavaScript, CSS, React and Next.js.
       </SectionText>
       <Button>#OpenToWork</Button>
       {/* <Button onClick={() => window.location = 'https://google.com'}>#OpenToWork</Button> */}
