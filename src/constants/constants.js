@@ -20,13 +20,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Rick and Morty",
-    description:
-      "This web app was build with nextjs and ApolloClient to fetch data from the Rick & Morty api. If you are a fan of the tv show you can search your favorite characters",
-    image: "/images/rickmorty.png",
-    tags: ["Next.js", "Apollo", "GraphQl"],
-    source: "https://github.com/JimmyMendy/RickAndMorty-WebApp",
-    visit: "https://rickandmortywebapp-gamma.vercel.app/",
+    title: "Food-app",
+    description: "This web app was built with Vanilla JavaScript",
+    image: "/images/foodapp.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    source: "https://github.com/JimmyMendy/food-app",
+    visit: "https://food-app-jet.vercel.app/",
     id: 2,
   },
   {
@@ -46,7 +45,8 @@ export const projects = [
     image: "/images/ecommerce.png",
     tags: ["React", "Styled-Components", "JavaScript"],
     source: "https://github.com/JimmyMendy/React-Ecommerce-Ui",
-    visit: "https://619e9e072019c7b64c0b237e--youthful-noyce-722858.netlify.app/",
+    visit:
+      "https://619e9e072019c7b64c0b237e--youthful-noyce-722858.netlify.app/",
     id: 4,
   },
 ];
