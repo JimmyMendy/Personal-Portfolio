@@ -21,9 +21,9 @@ export const projects = [
   },
   {
     title: "Food-app",
-    description: "This web app was built with Vanilla JavaScript",
+    description: "Search Recipes with this web app was built with Vanilla JavaScript",
     image: "/images/foodapp.png",
-    tags: ["HTML", "CSS", "JavaScript"],
+    tags: ["HTML", "CSS", "JavaScript", "REST"],
     source: "https://github.com/JimmyMendy/food-app",
     visit: "https://food-app-jet.vercel.app/",
     id: 2,
